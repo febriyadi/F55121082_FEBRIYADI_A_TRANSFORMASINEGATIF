@@ -1,0 +1,1 @@
+{"mahasiswa": [{"nama": "John Doe", "umur": 20, "fakultas": "Teknik", "jurusan": "Informatika", "nilai": {"matematika": 80, "fisika": 75, "kimia": 70}}, {"nama": "Jane Smith", "umur": 21, "fakultas": "Ekonomi", "jurusan": "Manajemen", "nilai": {"ekonomi": 85, "akuntansi": 90, "bisnis": 95}}]}
